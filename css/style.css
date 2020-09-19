@@ -26,5 +26,5 @@ h1{
 	width: 60%;
 }
 .caja img:hover{
-	transform: :scale(1.2,1.2)rotate(15deg);
+	transform: scale(1.2,1.2)rotate(15deg);
 }
